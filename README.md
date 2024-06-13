@@ -1,4 +1,4 @@
-# Spring com JPA e banco relacional (MySQL)
+# Seção 23: Projeto: Web services com Spring Boot e JPA / Hibernate
 
 ### "Integração de Spring e JPA com MySQL."
 
